@@ -1,0 +1,8 @@
+Model,Scenario,Region,Variable,Unit,2015,2020,2025,2030,2035,2040,2045,2050
+GENeSYS-MOD 2.9,Directed Transition 1.0,The Netherlands,Primary Energy|Gas,EJ/yr,1.817525612,1.753868266,1.234190926,1.235051877,0.994360801,0.655207686,0.388880829,0.258975755
+GENeSYS-MOD 2.9,Gradual Development 1.0,The Netherlands,Secondary Energy|Hydrogen,EJ/yr,,,,,,,0.02610121,0.038694718
+GENeSYS-MOD 2.9,Gradual Development 1.0,The Netherlands,Primary Energy|Gas,EJ/yr,1.81925603,1.772593074,1.78649534,1.521669716,1.227626037,0.387787797,0.021840083,
+GENeSYS-MOD 2.9,Societal Commitment 1.0,The Netherlands,Secondary Energy|Hydrogen,EJ/yr,,,,,,,,0.004488397
+GENeSYS-MOD 2.9,Societal Commitment 1.0,The Netherlands,Primary Energy|Gas,EJ/yr,1.818630769,1.747579271,1.49653433,1.311513043,0.624849667,0.11050062,,
+GENeSYS-MOD 2.9,Techno-Friendly 1.0,The Netherlands,Secondary Energy|Hydrogen,EJ/yr,,,,,,0.018554092,0.015770978,0.013405332
+GENeSYS-MOD 2.9,Techno-Friendly 1.0,The Netherlands,Primary Energy|Gas,EJ/yr,1.819855453,1.769509681,0.929852086,0.847598337,0.872321686,0.732686014,0.491720791,0.182681464
